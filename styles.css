@@ -13,7 +13,7 @@ body {
     max-width: 1140px;
     width: 100%;
     margin: 0px auto;
-    padding: 0 10px;
+    padding: 15px;
 }
 
 .header {
@@ -261,7 +261,9 @@ padding: 25px 110px 40px 0px;
 
 .community__video-video {
     position: absolute;
-    top: 140px;
+    top: 90px;
+    margin: 15px;
+    padding: 15px;
 }
 
 .community__video-Ellipse1 {
@@ -293,6 +295,7 @@ padding: 25px 110px 40px 0px;
 .work__items {
     display: flex;
     justify-content: space-between;
+    margin: 8px;
 }
 
 .work__item {
@@ -515,7 +518,7 @@ color: #171832;
 
     .community__video-video {
         position: absolute;
-        top: 140px;
+        top: 2px;
         width: 100%;
     }
 
